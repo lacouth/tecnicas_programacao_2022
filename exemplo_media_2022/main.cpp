@@ -4,10 +4,10 @@ using namespace std;
 
 int main()
 {
-    float acumulador;
-    float nota;
-    int contador;
-    string resposta;
+    float acumulador = 0;
+    float nota = 0;
+    int contador = 0;
+    string resposta = "";
     do{
         cout << "Informe uma nota: ";
         cin >> nota;
