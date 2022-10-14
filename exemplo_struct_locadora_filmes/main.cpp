@@ -19,6 +19,9 @@ void cadastrar_filmes(Filme dados[]) {
     cout << "Informe o ano do filme: ";
     cin >> dados[i].ano;
     cin.ignore();
+    cout << "Informe o preço da diária: ";
+    cin >> dados[i].preco;
+    cin.ignore();
   }
 }
 
