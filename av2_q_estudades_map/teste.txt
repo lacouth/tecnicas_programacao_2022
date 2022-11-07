@@ -1,0 +1,7 @@
+6
+1 well 49
+1 zico 29
+1 well 13
+3 zico
+2 zico
+3 well
